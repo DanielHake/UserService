@@ -1,0 +1,20 @@
+/home/asaf/cloud/fullexample/UserService/bin/Debug/netcoreapp2.0/UserService.deps.json
+/home/asaf/cloud/fullexample/UserService/bin/Debug/netcoreapp2.0/UserService.runtimeconfig.json
+/home/asaf/cloud/fullexample/UserService/bin/Debug/netcoreapp2.0/UserService.runtimeconfig.dev.json
+/home/asaf/cloud/fullexample/UserService/bin/Debug/netcoreapp2.0/UserService.dll
+/home/asaf/cloud/fullexample/UserService/bin/Debug/netcoreapp2.0/UserService.pdb
+/home/asaf/cloud/fullexample/UserService/obj/Debug/netcoreapp2.0/UserService.csproj.CoreCompileInputs.cache
+/home/asaf/cloud/fullexample/UserService/obj/Debug/netcoreapp2.0/UserService.AssemblyInfoInputs.cache
+/home/asaf/cloud/fullexample/UserService/obj/Debug/netcoreapp2.0/UserService.AssemblyInfo.cs
+/home/asaf/cloud/fullexample/UserService/obj/Debug/netcoreapp2.0/UserService.dll
+/home/asaf/cloud/fullexample/UserService/obj/Debug/netcoreapp2.0/UserService.pdb
+c:\Users\Daniel\Downloads\Senior Year\Cloud computing\ServiceExample\ServiceExample\UserService\bin\Debug\netcoreapp2.0\UserService.deps.json
+c:\Users\Daniel\Downloads\Senior Year\Cloud computing\ServiceExample\ServiceExample\UserService\bin\Debug\netcoreapp2.0\UserService.runtimeconfig.json
+c:\Users\Daniel\Downloads\Senior Year\Cloud computing\ServiceExample\ServiceExample\UserService\bin\Debug\netcoreapp2.0\UserService.runtimeconfig.dev.json
+c:\Users\Daniel\Downloads\Senior Year\Cloud computing\ServiceExample\ServiceExample\UserService\bin\Debug\netcoreapp2.0\UserService.dll
+c:\Users\Daniel\Downloads\Senior Year\Cloud computing\ServiceExample\ServiceExample\UserService\bin\Debug\netcoreapp2.0\UserService.pdb
+c:\Users\Daniel\Downloads\Senior Year\Cloud computing\ServiceExample\ServiceExample\UserService\obj\Debug\netcoreapp2.0\UserService.csproj.CoreCompileInputs.cache
+c:\Users\Daniel\Downloads\Senior Year\Cloud computing\ServiceExample\ServiceExample\UserService\obj\Debug\netcoreapp2.0\UserService.AssemblyInfoInputs.cache
+c:\Users\Daniel\Downloads\Senior Year\Cloud computing\ServiceExample\ServiceExample\UserService\obj\Debug\netcoreapp2.0\UserService.AssemblyInfo.cs
+c:\Users\Daniel\Downloads\Senior Year\Cloud computing\ServiceExample\ServiceExample\UserService\obj\Debug\netcoreapp2.0\UserService.dll
+c:\Users\Daniel\Downloads\Senior Year\Cloud computing\ServiceExample\ServiceExample\UserService\obj\Debug\netcoreapp2.0\UserService.pdb
